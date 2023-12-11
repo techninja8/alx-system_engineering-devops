@@ -1,0 +1,16 @@
+total 55
+drwx------. 2 root root 3452 Dec 11 21:49 .
+drwx------. 6 root root 3452 Dec 11 14:59 ..
+-rwx------. 1 root root   32 Dec 11 15:10 0-hello_world
+-rwx------. 1 root root   28 Dec 11 15:15 1-confused_smiley
+-rwx------. 1 root root   29 Dec 11 20:55 2-hellofile
+-rwx------. 1 root root   40 Dec 11 20:58 3-twofiles
+-rwx------. 1 root root   35 Dec 11 21:01 4-lastlines
+-rwx------. 1 root root   35 Dec 11 21:03 5-firstlines
+-rwx------. 1 root root   30 Dec 11 21:31 6-third_line
+-rwx------. 1 root root   72 Dec 11 21:45 7-file
+-rwx------. 1 root root   36 Dec 11 21:48 8-cwd_state
+-rw-------. 1 root root   18 Dec 11 15:01 README.md
+-rw-------. 1 root root  916 Dec 11 21:33 iacta
+-rw-------. 1 root root    0 Dec 11 21:49 ls_cwd_content
+-rw-------. 1 root root   13 Dec 11 21:46 test.txt
